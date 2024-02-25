@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "train-view"
 version = "0.1.0"
-description = "A dynamic figure for visualizing training losses"
+description = "A dynamic figure for displaying updating values"
 authors = ["Christoph Vos <christoph.a.vos@gmail.com>"]
 readme = "README.md"
 
