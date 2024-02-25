@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "train-view"
+version = "0.1.0"
+description = "A dynamic figure for visualizing training losses"
+authors = ["Christoph Vos <christoph.a.vos@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+plotly = "^5.19.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
